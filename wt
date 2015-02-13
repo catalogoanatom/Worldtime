@@ -1,9 +1,12 @@
 #/bin/bash
+
 date
 TZ='PST8PDT' date
+TZ='MST' date
+TZ='America/Mexico_City' date
 TZ='CST6CDT' date
 TZ='EST' date
-TZ='CET' date
+TZ='EST5EDT' date
 TZ='UTC' date
 TZ='GMT' date
 TZ='Europe/Moscow' date
