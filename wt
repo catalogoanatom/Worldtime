@@ -1,0 +1,12 @@
+#/bin/bash
+date
+TZ='PST8PDT' date
+TZ='CST6CDT' date
+TZ='EST' date
+TZ='CET' date
+TZ='UTC' date
+TZ='GMT' date
+TZ='Europe/Moscow' date
+TZ='Japan' date
+TZ='NZ' date
+
